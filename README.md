@@ -25,8 +25,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-@___sparklx___-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___sparklx___?igsh=MWhhYWV6dXcwcnoycg==)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Vimal%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-vimal-kumar-65278b360?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 
 # 💻 Tech Stack
