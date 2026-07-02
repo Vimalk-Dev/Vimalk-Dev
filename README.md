@@ -30,35 +30,10 @@
 
 # 💻 Tech Stack
 
- ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,androidstudio&perline=13" />
 </p>
-![Python](https://skillicons.dev/icons?i=python)
-
-![Java](https://skillicons.dev/icons?i=java)
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-![React](https://skillicons.dev/icons?i=react)
-
-![React Native](https://skillicons.dev/icons?i=react)
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-![Express](https://skillicons.dev/icons?i=express)
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-![HTML](https://skillicons.dev/icons?i=html)
-
-![CSS](https://skillicons.dev/icons?i=css)
-
-![Git](https://skillicons.dev/icons?i=git)
-
-![GitHub](https://skillicons.dev/icons?i=github)
-
 ---
 
 # 🚀 Current Projects
