@@ -14,7 +14,7 @@
 
 📱 Learning React Native & Mobile App Development
 
-🌱 Currently learning MERN Stack
+🌱 Currently learning MERN Stack and JAVA Full Stack
 
 🚀 Goal: Become a Software Engineer
 
