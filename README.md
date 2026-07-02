@@ -86,12 +86,4 @@
 
 
 
----
-
-# 👀 Visitors
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
-
----
-
 ## ⭐ Thanks for visiting my profile!
