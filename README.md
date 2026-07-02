@@ -22,7 +22,8 @@
 
 # 🌐 Connect With Me
 
-[![Instagram]([https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white](https://www.instagram.com/___sparklx___?igsh=MWhhYWV6dXcwcnoycg==))](YOUR_INSTAGRAM_LINK)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@___sparklx___-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___sparklx___?igsh=MWhhYWV6dXcwcnoycg==)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
 
