@@ -30,6 +30,11 @@
 
 # 💻 Tech Stack
 
+ ## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,androidstudio&perline=13" />
+</p>
 ![Python](https://skillicons.dev/icons?i=python)
 
 ![Java](https://skillicons.dev/icons?i=java)
